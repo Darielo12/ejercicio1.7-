@@ -1,0 +1,11 @@
+C:\Users\darie\source\repos\ejercicio1.7\ejercicio1.7\bin\Debug\ejercicio1.7.exe.config
+C:\Users\darie\source\repos\ejercicio1.7\ejercicio1.7\bin\Debug\ejercicio1.7.exe
+C:\Users\darie\source\repos\ejercicio1.7\ejercicio1.7\bin\Debug\ejercicio1.7.pdb
+C:\Users\darie\source\repos\ejercicio1.7\ejercicio1.7\obj\Debug\ejercicio1.7.csproj.AssemblyReference.cache
+C:\Users\darie\source\repos\ejercicio1.7\ejercicio1.7\obj\Debug\ejercicio1._7.Form1.resources
+C:\Users\darie\source\repos\ejercicio1.7\ejercicio1.7\obj\Debug\ejercicio1._7.Properties.Resources.resources
+C:\Users\darie\source\repos\ejercicio1.7\ejercicio1.7\obj\Debug\ejercicio1.7.csproj.GenerateResource.cache
+C:\Users\darie\source\repos\ejercicio1.7\ejercicio1.7\obj\Debug\ejercicio1.7.csproj.CoreCompileInputs.cache
+C:\Users\darie\source\repos\ejercicio1.7\ejercicio1.7\obj\Debug\ejercicio1.7.exe
+C:\Users\darie\source\repos\ejercicio1.7\ejercicio1.7\obj\Debug\ejercicio1.7.pdb
+C:\Users\darie\source\repos\ejercicio1.7\ejercicio1.7\obj\Debug\ejercicio1.7.exe.config
